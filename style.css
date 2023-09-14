@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: #283149;
+}
+h1{
+    font-size: 5rem;
+    color: #dbedf3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #614004;
+}
+footer{
+    color: #dbedf3;
+    font-family: sans-serif;
+}
+
+.cat{
+    background-image: url("img/cat.jpg");
+}
+.puppy{
+    background-image: url("img/puppy.jpg");
+}
+.bee{
+    background-image: url("img/bee.jpg");
+}
+.monkey{
+    background-image: url("img/monkey.jpg");
+}
+.animal{
+    background-color: white;
+    outline: none;
+    border: 20px solid #658d61;
+    border-radius: 25px;
+    font-size: 5rem;
+    font-family: 'Roboto', cursive;
+    font-weight: 900;
+    line-height: 5;
+    color: #614105;
+    text-shadow: 3px 0 #edf107;
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    margin: 15px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
